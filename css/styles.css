@@ -320,9 +320,6 @@ line-height: 1;
   background-color: #5a30a0;
   padding: 3rem 0 0 0;
 }
-.footer__contenedor {
-
-}
 @media (min-width: 768px) {
   .footer__grid {
     display: flex;
